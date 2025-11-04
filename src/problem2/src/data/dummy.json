@@ -1,0 +1,20 @@
+{
+    "balance": {
+        "USDC": 100,
+        "Dummy": 200
+    },
+    "currencies": [
+        {
+            "name": "USDC",
+            "symbol": "USDC",
+            "logo": "USDC.svg",
+            "price": 1
+        },
+        {
+            "name": "Dummy",
+            "symbol": "Dummy",
+            "logo": "Dummy.svg",
+            "price": 0.5
+        }
+    ]
+}
